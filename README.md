@@ -1,4 +1,4 @@
-Proyecto OpenMP - Ejecución en Paralelo
+#Proyecto OpenMP - Ejecución en Paralelo
 
 Autor: Daniel Galvis BetancourtDescripción:Este proyecto muestra un ejemplo básico de programación paralela utilizando OpenMP en C. El objetivo principal es demostrar cómo múltiples hilos pueden ejecutar un mismo bloque de código de forma concurrente, optimizando el uso de los recursos del procesador.
 
